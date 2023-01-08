@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+week_2_ENV/*
 
 # C extensions
 *.so
